@@ -9,7 +9,6 @@ function App() {
       <CounterContainer />
       <hr />
       <TodosContainer />
-      <h1>test</h1>
     </div>
   );
 }
