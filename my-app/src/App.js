@@ -10,6 +10,7 @@ function App() {
       <hr />
       <TodosContainer />
       <h1>test</h1>
+      <h2>Add Text</h2>
     </div>
   );
 }
